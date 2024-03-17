@@ -1,5 +1,5 @@
 # Wellness and Fitness Equipment Manufacturing Company - Product Analysis
-Language; Python
+Language; Python <br>
 Libraries: NumPy, Pandas, Matplotlib, Seaborn)
 
 ## Business Problem:
